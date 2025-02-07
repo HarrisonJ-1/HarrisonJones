@@ -17,5 +17,5 @@ Check out my portfolio: [harrisonj.uk](https://www.harrisonj.uk)
   - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - **Currently Improving:** Further developing my Java skills
 
-Feel free to explore my repositories and connect with me! 😊
+Feel free to check out my portfolio! 😊
 
